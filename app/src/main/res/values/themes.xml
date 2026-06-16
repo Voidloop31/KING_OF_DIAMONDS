@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.GameOfCards" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/darkBg</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/darkBg</item>
+    </style>
+</resources>

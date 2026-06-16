@@ -1,0 +1,8 @@
+<resources>
+    <color name="darkBg">#1a0a2e</color>
+    <color name="red">#e63946</color>
+    <color name="white">#ffffff</color>
+    <color name="cardBg">#16213e</color>
+    <color name="purple">#2d1a4a</color>
+    <color name="grayText">#a0a0c0</color>
+</resources>
